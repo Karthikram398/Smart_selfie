@@ -1,5 +1,10 @@
 # Smart_selfie
 
+ I came across this advertisement for Oppo — the phone automatically captures a selfie when the beautiful actress smiles at the camera. This seemed like a pretty easy challenge given the wonderful dlib library from Python.
+
+
+
+
 This project is about smart selfie using python programming. It detects a smile on the face and accordingly takes a selfie-and saves it into your drive. The full procedure is been described step by step.
 
 Libraries used in this code are :
